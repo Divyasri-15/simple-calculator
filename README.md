@@ -10,10 +10,10 @@ This application is developed to perform basic operations like addition ,subtrac
 
 Operations that can perform through this calculator application are-
 
-1.Addition
-2.Subtraction
-3.Multiplication
-4.Division
-5.Percentage Calculation
+1.Addition  
+2.Subtraction  
+3.Multiplication  
+4.Division  
+5.Percentage Calculation  
 
 
